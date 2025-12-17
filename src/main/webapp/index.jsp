@@ -11,7 +11,7 @@
             margin: 0px;
             padding: 0;
             background: #f3f4f6;
-            color: #333;
+            color: #33;
         }
 
         /* Header Styles */
