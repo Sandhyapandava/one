@@ -8,7 +8,7 @@
         /* General Styles */
         body {
             font-family: 'Arial', sans-serif;
-            margin: 0;
+            margin: 0px;
             padding: 0;
             background: #f3f4f6;
             color: #333;
